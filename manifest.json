@@ -3,9 +3,9 @@
     "minimum_chrome_version": "36",
     "version": "0.51.2",
     "author": "Hydra",
-    "name": "Cleanflight - Configurator",
-    "short_name": "cleanflight",
-    "description": "Crossplatform configuration tool for Cleanflight flight control system",
+    "name": "Nizflight - Configurator",
+    "short_name": "nizflight",
+    "description": "Configuration tool for Nizflight flight control system",
 
     "offline_enabled": true,
 
